@@ -1,0 +1,9 @@
+Callable = Runnable
+ExecutorService submit
+SingleThreadPool线程前后按顺序执行
+
+fixed cached single scheduled workstealing forkjoin
+
+ThreadpoolExecutor
+
+PStreamAPI
